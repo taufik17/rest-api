@@ -1,0 +1,31 @@
+[
+{
+	"nama" : "Taufik Agung Santoso",
+	"umur" : 21,
+	"nrp"	: "14116007",
+	"lulus" : true,
+	"hobby" : [
+		"coding",
+		"gaming"
+	],
+	"pembimbing" : {
+		"pembimbing1" : "pak rajif",
+		"pembimbing2" : "pak arif"
+	}
+},
+
+{
+	"nama" : "Taufik Agung Santoso",
+	"umur" : 21,
+	"nrp"	: "14116007",
+	"lulus" : true,
+	"hobby" : [
+		"coding",
+		"gaming"
+	],
+	"pembimbing" : {
+		"pembimbing1" : "pak rajif",
+		"pembimbing2" : "pak arif"
+	}
+}
+]
